@@ -1,6 +1,5 @@
-# TEKNOFEST SRUY ROS2 Project
+# SRUY ROS2 Project
 
-This repository contains the ROS2-based software architecture for the TEKNOFEST Sanayide Robotik Uygulamalar Yarışması autonomous forklift mobile robot project.
 
 ## Current Status
 
