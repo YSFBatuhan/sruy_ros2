@@ -1,0 +1,23 @@
+# TEKNOFEST SRUY ROS2 Project
+
+This repository contains the ROS2-based software architecture for the TEKNOFEST Sanayide Robotik Uygulamalar Yarışması autonomous forklift mobile robot project.
+
+## Current Status
+
+- ROS2 Humble workspace created
+- Basic ROS2 package structure started
+- Publisher/subscriber examples implemented
+- `/cmd_vel` Twist publisher/listener tested
+- TurtleBot3 Gazebo simulation tested
+- RViz, TF, odometry and LaserScan visualization tested
+
+## Main Goals
+
+- Gazebo simulation
+- SLAM and mapping
+- Nav2 autonomous navigation
+- Mission manager FSM
+- PLC/factory automation communication
+- QR detection and line following
+- Safety layer
+- STM32 hardware interface
